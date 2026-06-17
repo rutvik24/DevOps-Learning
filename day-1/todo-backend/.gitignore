@@ -1,0 +1,11 @@
+# Binaries
+/server
+/migrate
+todo-backend
+migrate
+
+# Environment
+.env
+
+# Go
+vendor/
