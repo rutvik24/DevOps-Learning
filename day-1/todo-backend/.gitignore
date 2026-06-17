@@ -1,8 +1,7 @@
-# Binaries
+# Binaries (root only — do not use bare "migrate" or it ignores cmd/migrate)
 /server
 /migrate
 todo-backend
-migrate
 
 # Environment
 .env
